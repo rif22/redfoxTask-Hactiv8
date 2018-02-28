@@ -1,0 +1,43 @@
+A. Resultan Gaya
+
+	start
+		set massa_benda (m) to 600
+		set percepatan (a) to 2
+		compute resultan_gaya = m x a 
+		display resultan_gaya
+	end
+
+B. Tahun Kabisat
+
+	start
+		input tahun
+		jika sisa hasil bagi tahun  habis dibagi 4, 100, 400
+		maka benar tahun kabisat
+		tampilkan benar tahun kabisat 
+		jika tidak 
+		maka bukan tahun kabisat
+		tampilkan bukan tahun kabisat
+	end
+
+C. Laundry Day
+	
+	Start
+		masukan pakaian sampai dengan sama 20 ke dalam mesin cuci
+		jika pakaian belum sampai dengan sama 20 
+		maka  masukan pakaian kembali sampai dengan 20 dan mesin cuci belum boleh dinyalakan 
+		tetapi jika pakaian sudah dimasukan 20 maka nyalakan mesin cuci
+		mulai nyalakan mesin cuci
+	end
+
+D. Periksa Kuku
+
+	start
+		input jumlah siswa = 40
+		guru memeriksa secara berurutan dari siswa 1 sampai dengan siswa ke 40
+		jika ada kuku siswa panjang maka siswa akan dihukum 
+		tetapi jika kuku siswa tidak panjang maka dapat pujian
+	end
+
+
+
+
